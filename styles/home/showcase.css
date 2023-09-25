@@ -14,14 +14,14 @@
 /* 首页展示窗说明 */
 .HomepageShowcaseTitle {
     width: 100%;
-    background: linear-gradient(0deg, #000000bb 80%, #00000000);
+    background: linear-gradient(0deg, #dfdfdfbb 80%, #00000000);
     font-family: 'ZCOOLKuaiLe';
     color: #55ffbb;
 }
 
 .ShowCase {
     z-index: 1;
-    background-color: #ffffff;
+    background-color: #dfdfdf;
     box-shadow: 9px 1px 10px #000000;
     /* 展示窗内容超出部分裁剪 */
     overflow: hidden;
