@@ -1,5 +1,5 @@
 body {
-    background-color: #2b2b2b;
+    background-color: #ffffff;
 }
 
 #background {
@@ -17,7 +17,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
     text-align: center;
-    color: #9060ff;
+    color: #55ffbb;
 
     position: absolute;
     bottom: 15%;
@@ -39,12 +39,12 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-size: smaller;
     text-align: center;
-    color: #9060ff;
+    color: #55ffbb;
 }
 
 #text {
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
     text-align: center;
-    color: #9060ff;
+    color: #55ffbb;
 }

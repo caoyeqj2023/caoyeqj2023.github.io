@@ -6,14 +6,14 @@
 .AboutpageInfo {
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
-    color: #55ffbb;
+    color: #9060ff;
     margin-left: 5%;
     margin-right:5%;
 }
 
 .AboutpageLinkIcons {
-    background-color: #9060ff;
-    border-color: #55ffbb;
+    background-color: #55ffbb;
+    border-color: #9060ff;
     border-radius: 50%;
     border-style: solid;
 
@@ -24,7 +24,7 @@
 
 .AboutpageTitle {
     font-family: ZCOOLKuaiLe;
-    color: #9060ff;
+    color: #55ffbb;
     font-size: larger;
     margin-left: 2%;
 }
@@ -82,5 +82,5 @@
     border-radius: 50%;
     border-width: 2px;
     border-style: solid;
-    border-color: #55ffbb;
+    border-color: #9060ff;
 }
