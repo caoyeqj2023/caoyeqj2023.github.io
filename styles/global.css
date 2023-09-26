@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #dfdfdf;  /* 背景色 */
+    background-color: #7f7f7f;  /* 背景色 */
 
     margin: 0px;
     width: 100%;
@@ -12,7 +12,7 @@ body {
 
 .ShowCase {
     z-index: 1;
-    background-color: #dfdfdf;
+    background-color: #7f7f7f;
     box-shadow: 9px 1px 10px #000000;
     /* 展示窗内容超出部分裁剪 */
     overflow: hidden;

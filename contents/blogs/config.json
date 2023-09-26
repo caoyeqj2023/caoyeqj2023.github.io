@@ -1,12 +1,11 @@
 [
     {
-        "index": "blg0000000000",				// the unique indentifier begin with "blg" or "prj"
-        "title": "the Title of the Content",	// [any string] The title
-        "subtitle": "Give a brief introduction",// [any string] The subtitle
-        "cover": "url of the cover",			// [a url or null] the link to the cover, or NULL is okay
-        "date": "YYYY.MM.DD | hh:mm",			// Upload date
-        "tags": ["tag1", "tag2", "tag3"],		// [an array of any string] tags
-        "url": "contents/blogs/0000000000.md"	// [a url] the link to the markdown file
+        "index": "blg0000000000",				
+        "title": "草科院迎新班会 班委选举活动顺利结束",
+        "subtitle": "2023 年 9 月 24 日下午，草科院迎新会顺利举办，会后我班组织班会，进行了班级概况介绍、班主任介绍、课业规划、校规明确、成绩计算方案声明、班委选举等一系列活动。本次班委选举共计划选出 9 位班委，共有 15 人参与竞选，其中也有已选举职位的落选者再次参加后来的职位竞选。",
+        "cover": "https://pic.imgdb.cn/item/65118b00c458853aef5aa41a.jpg",
+        "date": "2023.09.25 | 22:27",
+        "tags": ["班会活动", "班委选举"],
+        "url": "contents/blogs/0000000000.md"
     }
-    // ...
 ]

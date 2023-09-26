@@ -37,7 +37,7 @@
     object-fit: cover;
     border-style: inset;
     border-width: 3px;
-    border-color: #dfdfdf;
+    border-color: #7f7f7f;
     transform: translate(5%, 3%);
 }
 
@@ -106,7 +106,7 @@
 }
 
 #listpageSearchbar {
-    background-color: #dfdfdf;
+    background-color: #7f7f7f;
     border-color: #55ffbb;
     border-style: solid;
     border-radius: 5px;
