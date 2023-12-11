@@ -13,7 +13,7 @@
 
 .ListpageShowcase {
     z-index: 1;
-    background-color: #5f5f5f;
+    background-color: #3c3c3c;
     box-shadow: 9px 1px 10px #000000;
     /* 展示窗内容超出部分裁剪 */
     overflow: hidden;
@@ -37,7 +37,7 @@
     object-fit: cover;
     border-style: inset;
     border-width: 3px;
-    border-color: #5f5f5f;
+    border-color: #3c3c3c;
     transform: translate(5%, 3%);
 }
 
@@ -106,7 +106,7 @@
 }
 
 #listpageSearchbar {
-    background-color: #5f5f5f;
+    background-color: #3c3c3c;
     border-color: #55ffbb;
     border-style: solid;
     border-radius: 5px;
