@@ -8,7 +8,7 @@
     background-color: #00000000;
     border-color: #55ffbb;
     border-style: none;
-    color: #9060ff;
+    color: #ccbbff;
 }
 
 .ListpageShowcase {
@@ -45,7 +45,7 @@
     position: absolute;
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
-    color: #9060ff;
+    color: #ccbbff;
     right: 0%;
     bottom: 0;
     margin: 0;
@@ -54,7 +54,7 @@
 .ListpageShowcaseTag {
     position: absolute;
     font-family:'Courier New', Courier, monospace;
-    color: #9060ff;
+    color: #ccbbff;
     bottom: -3px;
     margin: 0;
     left: 50px;
@@ -110,7 +110,7 @@
     border-color: #55ffbb;
     border-style: solid;
     border-radius: 5px;
-    color: #9060ff;
+    color: #ccbbff;
     width: 90%;
     margin: 5%;
     margin-top: 1%;

@@ -6,7 +6,7 @@
 }
 
 a {
-    color: #9060ff;
+    color: #ccbbff;
 }
 
 /* 代码高亮色彩使用 highlight.js 提供的 github-dark-dimmed 主题 */
@@ -22,7 +22,7 @@ code {
 
 .ContentpageInfo {
     font-family: 'Courier New', Courier, monospace;
-    color: #ccccff;
+    color: #ccbbff;
     margin-left: 3%;
 }
 
