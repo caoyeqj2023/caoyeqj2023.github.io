@@ -38,3 +38,5 @@ function callback(_t) {
     requestAnimationFrame(callback);
     return;
 }
+
+RUN();
