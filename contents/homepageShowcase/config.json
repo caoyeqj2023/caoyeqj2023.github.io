@@ -1,17 +1,20 @@
 [
     {
-        "title": "Center showcase title", 
-        "subtitle": "Center showcase subtitle", 
-        "index": "blg0000000000"
+        // 中央展示框
+        "title": "班级文化符号征集计划！", 
+        "subtitle": "为迎接兰州大学 “十佳百优” 班级建设评选活动，办好班级文化建设，现在 2023 级草业科学强基班班委会开始向各位征集班级文化符号啦！", 
+        "index": "blg0000000013"
     },
     {
-        "title": "Left showcase title", 
-        "subtitle": "Left showcase subtitle", 
-        "index": "blg0000000001"
+        // 左侧展示框
+        "title": "强基班四月主题团课活动顺利开展", 
+        "subtitle": "2024 年 4 月 7 日下午，2023 级草业科学强基班全体成员在团支书张嘉仪同学的主持下顺利开展了以全民国家安全教育日为主题的团课活动。", 
+        "index": "blg0000000012"
     },
     {
-        "title": "Right showcase title", 
-        "subtitle": "Right showcase subtitle", 
-        "index": "blg0000000002"
+        // 右侧展示框
+        "title": "五院强基班联合团日活动在黄河畔顺利进行！", 
+        "subtitle": "2023 年 12 月 17 日，兰州大学草地农业科技学院、化学化工学院、生命科学学院、数学与统计学院、物理科学与技术学院五院联合进行了强基班团日志愿活动。", 
+        "index": "blg0000000008"
     }
 ]

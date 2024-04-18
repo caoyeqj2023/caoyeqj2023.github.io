@@ -34,5 +34,5 @@ $.ajaxSettings.async = true;
 
 if (content == undefined) {
     alert("您查询的 content 不存在！\nThe requested content is not found!");
-    window.location.href = "index.html";
+    window.location.href = "404.html";
 }
