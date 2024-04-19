@@ -4,7 +4,7 @@ function getShowcaseJSON() {
     // 关闭 jQuery 异步执行
     $.ajaxSettings.async = false;
 
-    $.getJSON("/contents/homepageShowcase/config.json", function(data) {
+    $.getJSON("contents/homepageShowcase/config.json", function(data) {
 
         let showcase_title = new Array();
         let showcase_subtitle = new Array();
