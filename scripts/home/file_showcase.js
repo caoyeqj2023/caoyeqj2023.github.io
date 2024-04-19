@@ -6,6 +6,8 @@ function getShowcaseJSON() {
 
     $.getJSON("contents/homepageShowcase/config.json", function(data) {
 
+        alert("JSON GOT!");
+        
         let showcase_title = new Array();
         let showcase_subtitle = new Array();
         let showcase_link = new Array();
